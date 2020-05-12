@@ -147,12 +147,6 @@ p.subtitle {
     }
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: black;
-    color: #ccc;
-  }
-}
 
 @keyframes chatblips {
     /* taken from http://angrytools.com/css/animation/ for bounce-in animation*/
