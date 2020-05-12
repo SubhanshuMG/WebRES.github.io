@@ -3,6 +3,6 @@
 
 Here are some screenshots:
 
-1. ![](img1.jpg)
-2. ![](img2.jpg)
-3. ![](img3.jpg)
+ ![](img1.jpg)
+ ![](img2.jpg)
+ ![](img3.jpg)
