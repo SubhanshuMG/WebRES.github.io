@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background: #f4f4f4 url("../assets/candlebg.svg");
+    background:
     background-size: cover;
 }
 
@@ -145,6 +145,13 @@ p.subtitle {
         transform: translateY(0);
         opacity: 1;
     }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: #ccc;
+  }
 }
 
 @keyframes chatblips {
